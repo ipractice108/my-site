@@ -1,4 +1,4 @@
-export default function Арт-асанаPage() {
+export default function ArtasanaPage() {
   return (
     <div>
       {/* Hero */}
