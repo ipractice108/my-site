@@ -1,4 +1,4 @@
-export default function ОбомнеPage() {
+export default function AboutPage() {
   return (
     <div>
       {/* Hero */}
