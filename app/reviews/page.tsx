@@ -1,4 +1,4 @@
-export default function ОтзывыPage() {
+export default function ReviewsPage() {
   return (
     <div>
       {/* Hero */}
