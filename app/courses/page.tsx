@@ -1,4 +1,4 @@
-export default function КурсыPage() {
+export default function CoursesPage() {
   return (
     <div>
       {/* Hero */}
